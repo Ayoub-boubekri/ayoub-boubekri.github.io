@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Poppins:wght@100;200;300;400;600;700&display=swap');
+
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.mama h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.mama h3 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.mama h4 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.mama a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 0.85rem;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.btn {
+    border: none;
+    padding: 8px 14px;
+    background-color: rgb(178, 3, 253);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(17, 15, 15);
+}
+
+
+.icon{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.uil-sync-exclamation {
+    color: rgb(255, 0, 0);
+    font-size: 80px;
+    display: inline-flex;
+}
